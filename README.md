@@ -1,4 +1,4 @@
-## Machine Learn Classification Random Forest
+## Machine Learn Classification
 
 ### Install python (você vai precisar instalar estes pacotes)
 
