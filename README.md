@@ -7,7 +7,6 @@ numpy <br>
 pycaret <br>
 sklearn <br>
 seaborn <br>
-dataprep <br>
 
 ## Utilize o comando "!pip install (nome)" no jupyter para instalá-los
 
